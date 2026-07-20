@@ -38,7 +38,7 @@ WEATHER_LON = 9.1900
 WEATHER_LOCATION_NAME = "Home"
 
 # Google Calendar: which calendar(s) to pull from ("primary" = main calendar)
-CALENDAR_IDS = ["primary"]
+CALENDAR_IDS = ["johnnie.shannon@gmail.com"]
 CALENDAR_DAYS_AHEAD = 3  # today + this many days
 
 # Google Sheets: "Meal Planner" spreadsheet
